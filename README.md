@@ -23,7 +23,6 @@ I am a Computer Engineering student focused on building reliable, scalable backe
 - **Core Focus:** Backend Engineering, DevOps and AI / ML.
 - **Development Philosophy:** Clean, secure, and production-ready code — built to scale.
 - **Currently Building:** Backend services with Spring Boot & FastAPI, containerized deployments, and ML experiments.
-- **Online Handle:** `@5hriinidhi`
 
 ---
 
