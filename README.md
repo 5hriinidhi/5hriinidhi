@@ -20,7 +20,7 @@
 
 I am a Computer Engineering student focused on building reliable, scalable backend systems and the infrastructure that runs them. My work spans designing secure REST services, working with data pipelines and event-driven architectures, containerizing and deploying applications, and exploring machine learning research.
 
-- **Core Focus:** Backend Engineering, DevOps, Distributed Data Systems, and AI / ML.
+- **Core Focus:** Backend Engineering, DevOps and AI / ML.
 - **Development Philosophy:** Clean, secure, and production-ready code — built to scale.
 - **Currently Building:** Backend services with Spring Boot & FastAPI, containerized deployments, and ML experiments.
 - **Online Handle:** `@5hriinidhi`
